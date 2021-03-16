@@ -16,7 +16,3 @@ Phan Thành Nhân-19521944
 ////
 //
 ////
-/
-# ffff
-**In đậm** 
-Em Chào thầy nhớ
