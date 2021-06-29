@@ -1,0 +1,5 @@
+các nhóm bổ sung thêm 
+
+nhóm 8 : bài tập làm đúng yêu cầu và code chạy đầy đủ , 
+
+nhóm 7 : code chạy tốt và có bổ sung thêm lọc các chuỗi trùng lặp , tuy code hơi dài nhưng đảm bảo tốt kết quả đầu ra 
