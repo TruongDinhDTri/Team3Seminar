@@ -3,11 +3,14 @@
 Nhóm Phân tích và thiết kế thuật toán-UIT
 
 # Member 
-Trương Đình Đức Trí-19522395  
+1. Trương Đình Đức Trí-19522395  
+    * Trưởng Nhóm 
 
-Hoàng Quang Vũ-19522530  
+2. Hoàng Quang Vũ-19522530  
+    * Thành viên
 
-Phan Thành Nhân-19521944  
+3. Phan Thành Nhân-19521944  
+    * Thành viên
 
 # GIẢNG VIÊN
 
